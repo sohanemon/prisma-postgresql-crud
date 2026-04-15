@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@prisma/client": "4.13.0",
-    "@types/node": "18.15.12",
+    "@types/node": "18.19.130",
     "@types/react": "18.0.37",
     "@types/react-dom": "18.0.11",
     "autoprefixer": "10.4.14",
